@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s: %(message)s')
 
 list_of_files = [
     "src/_init__.py",
-    "src/hepler.py",
+    "src/helper.py",
     "src/prompt.py",
     ".env",
     "setup.py",
